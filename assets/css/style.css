@@ -1,0 +1,24 @@
+.buttons {
+	font-family: "Pacifico", sans-serif;
+	border-radius: 117px;
+	background-color: white;
+
+}
+
+body {
+	background-image: url("http://weknowyourdreams.com/images/cloud/cloud-04.jpg");
+	-webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h2 {
+
+	font-family: "Pacifico", sans-serif;
+}
+
+p {
+font-family: "Pacifico", sans-serif;
+	
+}
